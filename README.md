@@ -1,7 +1,10 @@
 # Bigmart-Sales-Prediction
-Problem Statement - You are opening a new Store at a particular location. Now, Given the Store Location, Area, Size and other params. Predict the overall revenue/Sale generation of the Store.
 
-Dataset Details-
+**Problem Statement - **
+
+You are opening a new Store at a particular location. Now, Given the Store Location, Area, Size and other params. Predict the overall revenue/Sale generation of the Store.
+
+**Dataset Details-**
 The data has 8523 rows of 12 variables.
 
 Dataset Description -
